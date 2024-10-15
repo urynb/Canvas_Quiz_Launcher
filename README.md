@@ -9,7 +9,9 @@ The script (quiz_launcher.py) gets a list of quizzes from a course, and lets the
 The script relies on specific values in the attached text file, config.txt
 
 API_TOKEN=
+
 BASE_URI=https://umsystem.instructure.com/api/v1
+
 COURSE_ID=
 
 Course ID should use the ID of the desired course. API token should use your access token.
