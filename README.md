@@ -22,8 +22,11 @@ python3 quiz_launcher.py
 
 Select a quiz from the list that shows up by its index number.
 For example:
+
 1: Test Quiz 1
+
 2: Test Quiz 2
+
 would want an entry of '1' to select Test Quiz 1
 
 Enter a time in minutes to unlock the quiz for that duration (starting from the current time).
