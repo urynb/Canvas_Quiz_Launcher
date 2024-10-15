@@ -15,7 +15,6 @@ BASE_URI=https://umsystem.instructure.com/api/v1
 COURSE_ID=
 
 Course ID should use the ID of the desired course. API token should use your access token.
-The attached config file has a course ID of a test course.
 
 ### Running
 python3 quiz_launcher.py
